@@ -4,6 +4,11 @@ Just add water.
 ## What is it?
 A Keras-powered variational autoencoder builder
 
+## Installation
+```shell
+pip install git+https://github.com/tehZevo/dehydrated-vae#egg=dehydrated_vae
+```
+
 ## Usage
 Create an encoder (without the latent layers), and a decoder:
 ```python
